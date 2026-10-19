@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api-proxy",
-      "destination": "https://vercel.app"
+      "destination": "https://gestordocu.vercel.app/api-proxy"
     },
     {
       "source": "/(.*)",
