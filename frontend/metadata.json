@@ -1,0 +1,7 @@
+{
+  "name": "RSG Gestudoc - Gestiona tus documentos",
+  "description": "Plataforma empresarial de digitalización, OCR inteligente y custodia de albaranes. Cumplimiento RGPD/LOPDGDD con contratos de confidencialidad, exportación contable en plantilla Excel y validación con doble confirmación.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
